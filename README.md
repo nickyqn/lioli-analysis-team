@@ -7,3 +7,5 @@ Here you will keep all of your project files etc. You must learn how to use gith
 
 - [Nuts2001](https://github.com/Nuts2001)
 - [nickyqn](https://github.com/nickyqn)
+
+**Update your remaining team members...**
