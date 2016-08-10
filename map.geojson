@@ -9,6 +9,13 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
+{
+  "name": "Foso",
+  "area": "1190.9",
+  "centre_point": "=[-29.2842,27.5630]",
+  "perimeter": "26451.02",
+  "team": "Lioli_Analysis_Team"
+ }
         "test": "test"
       },
       "geometry": {
